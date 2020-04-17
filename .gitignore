@@ -200,3 +200,6 @@ out/
 
 # db folder
 db/
+
+# build moddules on app folder
+app/modules/
